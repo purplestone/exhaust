@@ -6,7 +6,11 @@
   "scripts": {
     "test": "node test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purplestone/exhaust.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "gaoyuan.ggg@gmail.com",
   "license": "MIT"
 }
