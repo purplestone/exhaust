@@ -1,0 +1,12 @@
+{
+  "name": "exhaust",
+  "version": "1.0.0",
+  "description": "Traversing Permutations exhaustive.",
+  "main": "exhaust.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
